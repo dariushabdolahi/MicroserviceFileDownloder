@@ -10,3 +10,6 @@ Setting up :
 - Start service.
 - download file from browser by this patten : (IP:PORT)/api/download?key=***
 - for example : localhost:80/api/download?key=123
+
+![Screenshot 2021-06-04 164924](https://user-images.githubusercontent.com/80158840/120800146-dec04780-c554-11eb-8757-e1a58f914d14.png)
+
